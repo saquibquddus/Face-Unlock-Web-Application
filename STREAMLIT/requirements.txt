@@ -1,0 +1,10 @@
+streamlit
+requests
+python-dotenv
+jsons
+cryptography
+pandas
+# opencv-python
+scikit-learn
+face_recognition
+ 
